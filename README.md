@@ -14,7 +14,7 @@ MachineMind is an end-to-end predictive maintenance system built for CNC (Comput
 3. **Useless alerts** — current systems say something broke but cannot tell you what caused it, which part failed, or what to do next.
 
 MachineMind handles all three — in real time — before the damage is done.
-![Demo](./assets/demo.gif)
+![Demo](demo.gif)
 ---
 
 ## Market Context
